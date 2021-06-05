@@ -36,7 +36,7 @@ Número de documentos: 1000
 
 2. Copiar clave de acceso.
 
-3. Abrir el siguiente [enlace](https://westus.dev.cognitive.microsoft.com/docs/services/TextAnalytics.V2.0/operations/) (las llamadas a la API deberán coincidir con la ubicación del recurso creado).
+3. Abrir el siguiente [enlace](https://westus.dev.cognitive.microsoft.com/docs/services/TextAnalytics.V2.0/) (las llamadas a la API deberán coincidir con la ubicación del recurso creado).
 
 4. Probar las diferentes características.
 
@@ -82,9 +82,9 @@ Número de documentos: 1000
 
 16. Añadimos nuevos mensajes.
 
-### LUIS
+## LUIS
 
-### QnA Maker
+## QnA Maker
 
 ## Contacto
 
